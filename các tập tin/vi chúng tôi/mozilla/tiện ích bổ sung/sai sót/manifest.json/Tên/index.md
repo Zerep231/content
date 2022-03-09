@@ -1,5 +1,6 @@
 ---
-title: name
+title: mikuanime
+
 slug: Mozilla/Add-ons/WebExtensions/manifest.json/name
 tags:
   - Add-ons
